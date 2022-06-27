@@ -1,3 +1,4 @@
+require("Jailbreak/index.js");
 var Jailbreak = null;
 
 mp.events.add('JailbreakStart', (player,message)=>{
